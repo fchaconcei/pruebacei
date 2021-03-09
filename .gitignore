@@ -13,7 +13,7 @@ BuildDate.txt
 *.userosscache
 *.sln.docstates
 
-bin/
+
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
@@ -29,6 +29,7 @@ build/
 bld/
 [Bb]in/
 [Oo]bj/
+bin/
 
 # Visual Studio 2015 cache/options directory
 .vs/
