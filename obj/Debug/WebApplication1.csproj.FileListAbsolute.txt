@@ -79,7 +79,6 @@ C:\Users\facun\source\repos\WebApplication1\WebApplication1\bin\es\System.Web.Ra
 C:\Users\facun\source\repos\WebApplication1\WebApplication1\bin\es\System.Web.WebPages.resources.dll
 C:\Users\facun\source\repos\WebApplication1\WebApplication1\bin\es\System.Web.WebPages.Deployment.resources.dll
 C:\Users\facun\source\repos\WebApplication1\WebApplication1\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\facun\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
 C:\Users\facun\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
 C:\Users\facun\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
 C:\Users\facun\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
